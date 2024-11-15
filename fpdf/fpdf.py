@@ -1013,7 +1013,7 @@ class FPDF(object):
                     try:
                         info = pf(name)
                         succeed_parsing = True
-                        break;
+                        break
                     except:
                         pass
                 #last resource
